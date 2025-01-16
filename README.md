@@ -21,3 +21,7 @@ This is a RESTful e-commerce application built using **Flask**, **Flask-SQLAlche
 - **MySQL Connector**: For connecting Flask with MySQL.
 
 ---
+
+## Personal Thoughts
+- This has been challenging as I've learned new database management methods. Using Postman has greatly helped me to have a nice interface to test my endpoints and manipulate data.
+- I've learned good methods to handle errors such as making sure my virtual environment is activated and the resources are updated to avoid conflicts. 
